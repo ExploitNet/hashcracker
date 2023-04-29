@@ -37,4 +37,4 @@ If you require the highest performance possible get yourself a GPU and don't bot
 Look for something that makes use of CUDA, OpenCL, or ACL which will bring you into the domain of billions of hashes per second.
 
 ## Contact Developer
-💎 Group: https://t.me/ProPawno
+💎 Group: https://t.me/ProPawnoGp
